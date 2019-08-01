@@ -1,14 +1,18 @@
 # Travel
-> Vue 2.5 开发移动端旅游网站项目整体流程与记录。
+> Vue 2.5 开发移动端旅游网站项目。
 
-项目整体总结与记录。欢迎 `Star` 和 `Fork`。
+以下是项目整体总结概括。欢迎 `Star` 和 `Fork`。
 
 ## 效果预览
-扫描二维码：
-
-![](https://img-1257191344.cos.ap-chengdu.myqcloud.com/%E6%97%85%E6%B8%B8%E7%BD%91%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
-
 ![](https://upload-images.jianshu.io/upload_images/12904618-501ca21cf363890e.gif?imageMogr2/auto-orient/strip)
+
+移动端扫描二维码打开预览项目：
+
+![](https://raw.githubusercontent.com/root-lucas/Travel-Build/master/static/QR-Code.png)
+
+PC端打开:https://root-lucas.github.io/Travel-Build/
+
+### 本项目源代码移步地址:https://gitee.com/lucas-code/Travel
 
 ## 项目涉及到技术栈：
 - Vue：Vue、Vue-router、Vuex、Vue-cli
@@ -47,7 +51,6 @@
 - 递归组件实现详情列表
 - transition slot 插槽实现 animation 简单动画效果
 
-# 项目相关
 ## 项目相关 npm 依赖包
 - fastClick: 用来处理移动端 `click` 事件 300毫秒延迟
 - stylus: CSS 预处理框架
