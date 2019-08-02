@@ -4,7 +4,7 @@
 以下是项目整体总结概括。欢迎 `Star` 和 `Fork`。
 
 ## 效果预览
-![](https://upload-images.jianshu.io/upload_images/12904618-501ca21cf363890e.gif?imageMogr2/auto-orient/strip)
+![](https://raw.githubusercontent.com/root-lucas/Travel-Build/master/%E9%A1%B9%E7%9B%AE%E5%8A%A8%E6%80%81%E9%A2%84%E8%A7%88%E5%9B%BE.gif)
 
 移动端扫描二维码打开预览项目：
 
